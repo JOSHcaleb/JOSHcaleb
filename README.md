@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JOSHcaleb
+- 👋 Hi, I’m Joshua
   
 - 👀 I’m interested in ...
 - CYBER SECURITY
