@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Joshua
   
 - 👀 I’m interested in ...
-- CYBER SECURITY
 - MACHINE LEARNING
-- DATA MINING
+- DATA SCIENCE
+- ARTIFICIAL INTELLIGENCE 
   
 - 🌱 I’m currently learning ...
 - BscIT
