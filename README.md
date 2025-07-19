@@ -1,16 +1,19 @@
 - 👋 Hi, I’m Joshua
   
-- 👀 I’m interested in ...
-- MACHINE LEARNING
-- COMPUTER VISION AND IMAGE PROCESSING 
+- 👀 I’m interested in ... 
 - DATA SCIENCE
-- ARTIFICIAL INTELLIGENCE 
+- ARTIFICIAL INTELLIGENCE
+- MACHINE LEARNING
+- COMPUTER VISION AND IMAGE PROCESSING
   
 - 🌱 I’m currently learning ...
-- BscIT
-- Bsc computer science
+- Bsc IT
+- Bsc Computer Science(Hons)
   
 - 💞️ I’m looking to collaborate on ...
+- Hands on projects
+- Seminars
+- Competition 
   
 - 📫 How to reach me ...
 - phone - +94 767740488
