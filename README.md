@@ -8,10 +8,15 @@
 
 🧰 Skills
 🔢Languages: Python, SQL, Java
+
 📊Data Science: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 ⚒️Cloud: AWS, Azure, CGP
+
 🗃️Databases: MySQL, MongoDB
+
 🧰Tools & Platforms: GitHub, Jupyter Notebooks, Visual Studio Code
+
 📚Machine Learning: Supervised/Unsupervised Learning, Regression, Classification
 
 💬 I’m excited to connect with data professionals and discuss opportunities in data science, ML & AI. Let’s work together and transform data into actionable insights!
